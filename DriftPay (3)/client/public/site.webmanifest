@@ -1,0 +1,25 @@
+
+{
+  "name": "DriftPay",
+  "short_name": "DriftPay",
+  "description": "Sleep. Listen. Earn Bitcoin.",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/logo.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "theme_color": "#0a0a23",
+  "background_color": "#0a0a23",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities"]
+}
