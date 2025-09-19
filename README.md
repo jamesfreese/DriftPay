@@ -1,2 +1,2 @@
-# DraftPay
-DriftPay is a poetic ritual app that transforms sleep, hydration, and journaling into emotionally resonant rewards. Users earn Dream Tokens and SATs through gentle actions, guided by ambient cues and symbolic feedback. It’s not just habit tracking—it’s emotional healing through ritual.
+#DriftPay
+Mine bitcoin while you sleep!DriftPay is a poetic ritual app that transforms sleep, hydration, and journaling into emotionally resonant rewards. Users mine for Dream Tokens,a currency that converts bitcoin through gentle actions like sleep sounds,guided by ambient cues and symbolic feedback earn for using your dream journal when they awake, and so much more! It’s not just habit tracking—it’s emotional healing!
